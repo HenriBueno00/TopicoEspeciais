@@ -1,2 +1,7 @@
-# TopicoEspeciais
-Matéria de 6° Semestre da Fatec Itapetininga
+# Topicos Especiais em Informática
+6° Semestre da Fatec Itapetininga
+
+##Professor
+José Antonio
+
+
